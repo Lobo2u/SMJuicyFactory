@@ -41,3 +41,7 @@ SQLExecute1('smsql',0,sql,function(data){
     console.log("오류 발생");
 })
 
+$(FLOW_CODE.id).textbox('textbox').bind('keydown',function(e){
+    if(e.key==='Enter')$(emp_select.id).click();
+});
+
