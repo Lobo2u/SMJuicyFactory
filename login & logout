@@ -23,3 +23,14 @@ SQLExecute1('smsql', 0, sql, function(data) {
     }
     else alert(data.message);
 });
+
+ShowPage('로그인', 0);
+
+$System.$PicManager['로그인'];
+
+if (self.로그인 != 'reload') {
+        self.로그인 = 'reload';
+        self.location.reload(true);
+        $System.sessionStorage.clear();
+    }
+    else self.로그인 = '';
