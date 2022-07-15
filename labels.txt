@@ -1,0 +1,3 @@
+0 abnormal
+1 Juice
+2 Empty
