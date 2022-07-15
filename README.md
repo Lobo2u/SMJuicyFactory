@@ -1,6 +1,6 @@
 *WEB SMWP를 활용한 구현으로 SMWP외의 코드 구현 불가능.</br>
 SMJuicyFactory</br>
-IOT+Web Monitoring system for juice factory</br>
+IOT+keras+Web Monitoring system for juice factory</br>
 team member:이승민, 양한빛, 조은수, 최치원</br>
 #[프로젝트 기간]</br>
 2022-06-20 ~ 2022- 07-01</br>
